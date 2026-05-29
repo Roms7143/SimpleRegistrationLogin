@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "145562405343",
+    "project_id": "simpleregistrationlogin",
+    "storage_bucket": "simpleregistrationlogin.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145562405343:android:3f8ee90dac1f0cbc7edc6a",
+        "android_client_info": {
+          "package_name": "com.example.simpleregistrationlogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6JmbQd7ft23pX1zVC09np8zuH6r9MF3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

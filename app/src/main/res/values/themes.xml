@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SimpleRegistrationLogin" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.SimpleRegistrationLogin" parent="Base.Theme.SimpleRegistrationLogin">
+        <item name="colorPrimary">#00665C</item>
+        <item name="colorPrimaryVariant">#00665C</item>
+        <item name="colorSecondary">#00665C</item>
+        <item name="colorTertiary">#00665C</item>
+        <item name="colorControlActivated">#00665C</item>
+        <item name="colorControlHighlight">#3300665C</item>
+        <item name="android:colorAccent">#00665C</item>
+        <item name="android:textCursorDrawable">@null</item>
+
+        <item name="android:forceDarkAllowed">false</item>
+        <item name="elevationOverlayEnabled">false</item>
+    </style>
+
+</resources>
